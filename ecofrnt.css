@@ -1,0 +1,187 @@
+.big-banner{
+     background-image:linear-gradient(90deg,rgb(240, 241, 241),rgb(106, 219, 140));
+}
+.foot{
+       background-image:linear-gradient(45deg,blue,green);
+       color:white;
+       text-align:center;
+      }
+    
+    .img{
+         margin-top:0px;
+         margin-right:0PX;
+         margin-bottom:0px;
+         margin-left:240px;
+     }
+.img1{
+     margin-bottom: 10px;
+}
+
+.logo{
+          background-image:linear-gradient(45deg,blue,green);      
+          height:100px;
+          margin-top:-59px;
+         }
+
+.txt{
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    font-style: inherit;
+    text-shadow: 0 2px 4px grey;
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+    padding-top: 20px;
+}
+.txt1{
+     font-family: 'Lato', sans-serif;
+     font-style: inherit;
+     text-shadow: 0 2px 4px grey;
+     color: rgb(0, 0, 0);
+     font-weight: bold;
+}
+.txt2{
+     font-family: 'Lato', sans-serif;
+     font-style: inherit;
+     text-shadow: 0 2px 4px grey;
+     color: rgb(0, 0, 0);
+     font-weight: bold;
+     padding-left: 50px;
+     text-align: center;
+}
+
+#navbar ul{
+           list-style:none; 
+           border-radius: 30px;
+           background-color:#ffffff;
+           box-shadow:2px 2px 20px rgb(0, 0, 0); 
+           background-image:linear-gradient(45deg,blue,green);
+          }
+
+#navbar ul li{
+               display:inline;
+             }
+#navbar ul li a{
+                text-decoration:none;
+                font-family:lato,verdena;
+                color:white;
+                font-size:20px;               
+               }  
+.social{
+     position: fixed;;
+     margin-top:30%;
+     transform: translateY(-30%);
+     margin-left:1%;
+}
+.icons{
+    
+     cursor: pointer;
+     transition: all 0.4s linear;
+     
+}
+.fb{
+     border-radius: 20px;
+     height:50px;
+     width: 40px;
+     padding-bottom:px;
+     box-shadow:2px 2px 2px rgb(2, 2, 2);
+}
+.insta{
+     height:50px;
+     border-radius: 28px;
+     width: 40px;
+     box-shadow:2px 2px 2px rgb(2, 2, 2); 
+}
+
+.mail{
+     height:50px;
+     border-radius: 20px;
+     width: 40px;
+     box-shadow:2px 2px 2px rgb(2, 2, 2);
+}
+
+   .all{
+        border:3px lightgrey solid;
+        text-align:center;
+        font-size:18px;
+        background-image:url("photo/6.jpg");
+        background-size:100% ;
+        background-repeat:no-repeat;
+        border-radius: 30px;
+        box-shadow:2px 2px 20px rgb(0, 0, 0);
+       }
+    .all1{
+        border:3px lightgrey solid;
+        text-align:center;
+        font-size:18px;
+        background-image:url("photo/5.jpg");
+        background-repeat:no-repeat;
+        border-radius: 30px;
+        background-color:#ffffff;
+        box-shadow:2px 2px 20px rgb(0, 0, 0);
+        
+       }
+
+ul.a{
+     list-style-type:none;
+}
+   
+.btn{
+          font-size:20px;
+          font-family: 'Lato', sans-serif;
+          font-style: inherit;
+          text-shadow: 0 2px 4px grey;
+          font-size: 10px;
+          cursor:pointer;
+          text-align:center;
+          background:  linear-gradient(270deg,rgb(151, 109, 219),blue);
+          border-radius:30px;
+          color:rgb(255,255, 255);         
+         }
+.lnl{
+     font-size:20px;
+          font-family: 'Lato', sans-serif;
+          font-style: inherit;
+          text-shadow: 0 2px 4px grey;
+          font-size: 10px;
+          cursor:pointer;
+}
+
+.btn:hover{
+     transition-duration:0.3s;
+     box-shadow:6px 6px 4px rgb(151,109,219) ;
+}
+   
+.btn:active{
+     transform: translateY(3px);
+     box-shadow:6px 6px 4px rgb(2, 2, 2);
+     transform:translateY(4px);
+     background: #000;
+     color: #ffffff;
+}
+input:focus, textarea:focus, select:focus{
+          outline: none;
+      }
+                  
+.yb{
+    font-size:35px;
+    font-family: 'Lato', sans-serif;
+    font-style:inherit;
+    text-shadow: 0 2px 4px grey;
+     color: rgb(0, 0, 0);
+     font-weight: bold;
+}
+
+.vnm{
+     border:3px lightgrey solid;
+     text-align:center;
+     background-image:url("photo/5.jpg");
+     background-repeat:no-repeat;
+     background-size:100% 100%;
+     border-radius: 30px;
+     background-color:#ffffff;
+     box-shadow:2px 2px 20px rgb(0, 0, 0);
+}
+   
+.fun{
+    background-image:linear-gradient(35deg,lightgrey,white,lightgrey);
+}
