@@ -1,0 +1,108 @@
+.big-banner{
+  background-image:linear-gradient(90deg,rgb(240, 241, 241),rgb(106, 219, 140));
+}
+.container-1{
+  border-radius: 30px;
+  border: none;
+  box-shadow: 2px 6px 16px black;
+  background-image:linear-gradient(90deg,rgb(240, 241, 241),rgb(106, 219, 140));
+  padding-bottom: 10px;
+}
+.logo{
+  background-image:linear-gradient(45deg,blue,green);      
+  height:100px;
+  margin-top:-60px;
+ }
+ .social{
+  position: fixed;;
+  margin-top:30%;
+  transform: translateY(-30%);
+  margin-left:1%;
+
+}
+.image{
+  background: transparent;
+}
+.icons{
+ 
+  cursor: pointer;
+  transition: all 0.4s linear;
+  
+}
+.fb{
+  border-radius: 20px;
+  height:50px;
+  width: 40px;
+  padding-bottom:px;
+  box-shadow:2px 2px 2px rgb(2, 2, 2);
+}
+.insta{
+  height:50px;
+  border-radius: 28px;
+  width: 40px;
+  box-shadow:2px 2px 2px rgb(2, 2, 2); 
+}
+
+.mail{
+  height:50px;
+  border-radius: 20px;
+  width: 40px;
+  box-shadow:2px 2px 2px rgb(2, 2, 2);
+}
+    
+.img{
+  margin-top:0px;
+  margin-right:0PX;
+  margin-bottom:0px;
+  margin-left:240px;
+}
+
+.logo{
+  background-image:linear-gradient(45deg,blue,green);
+}
+
+.nav{
+  text-align:center;
+  background-image:linear-gradient(45deg,blue,green);
+  font-weight:bold;
+}
+
+#navbar ul{
+  list-style:none; 
+  border-radius: 30px;
+  background-color:#ffffff;
+  box-shadow:2px 2px 20px rgb(0, 0, 0); 
+  background-image:linear-gradient(45deg,blue,green);
+}
+
+#navbar ul li{
+  display:inline;
+}
+#navbar ul li a{
+  text-decoration:none;
+  font-family:lato,verdena;
+  color:white;
+  font-size:20px;               
+}
+.text{
+   font-family: 'Exo 2', sans-serif;
+    font-weight:inherit;
+    font-style: inherit;
+    text-shadow: 0 2px 4px grey;
+    font-size:22px;
+    color: rgb(0, 0, 0);
+    list-style: none;
+}
+.top-text{
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    font-style: inherit;
+    text-shadow: 0 2px 4px grey;
+    font-size:30px;
+    color: rgb(0, 0, 0);
+}
+.foot{
+  background-image:linear-gradient(45deg,blue,green);
+  color:white;
+  text-align:center;
+}
